@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة الأنشطة",
+  "description": "نظام متكامل لإدارة الأنشطة والفعاليات ولوحة تحكم إحصائية وإدارة الأفكار والمواد التعليمية وتقارير PDF بتصميم إسلامي وتوافق كامل مع الهواتف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
